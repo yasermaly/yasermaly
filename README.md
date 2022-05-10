@@ -1,10 +1,11 @@
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div id="header" align="right">
+  <div id="header" align="right">
   <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
 </div>
+</h1>
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/yaser-aly-366bb1235/">
