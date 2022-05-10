@@ -6,7 +6,7 @@
   <p> 🔭 I’m currently working on building projects and finishing my portfolio website.</p>
   <p> 🌱 I’m currently learning at General Assembly's Software Engineering Immersive. </p>
 <div id="header" align="right">
-  <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/> 
+  <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300" width="600"/> 
 </div>
  
 
