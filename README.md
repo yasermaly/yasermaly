@@ -2,6 +2,11 @@
   <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/yaser-aly-366bb1235/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 <!--
