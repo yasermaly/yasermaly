@@ -1,10 +1,13 @@
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <div id="header" align="right">
-  <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
-</div>
+    <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
+  </div>
 </h1>
+<p> My name is Yaser Aly</p>
+<p> 🔭 I’m currently working on building projects and finishing my portfolio website.</p>
+<p> 🌱 I’m currently learning at General Assembly's Software Engineering Immersive. </p>
 
 
 <div id="badges">
@@ -19,8 +22,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
