@@ -1,14 +1,13 @@
 <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div id="header" align="right">
+  <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/> 
+</div>
   <p> My name is Yaser Aly</p>
   <p> 🔭 I’m currently working on building projects and finishing my portfolio website.</p>
   <p> 🌱 I’m currently learning at General Assembly's Software Engineering Immersive. </p>
-  <div id="header" align="right">
-    <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
-  </div>
-</h1>
-
 
 
 <div id="badges">
