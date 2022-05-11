@@ -8,10 +8,6 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300" width="600"/> 
 </div>
----
-
-### :hammer_and_wrench: Languages and Tools :
-
  
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
