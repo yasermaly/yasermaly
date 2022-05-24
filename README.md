@@ -3,8 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  <p align="center"> My name is Yaser Aly. Thanks for checking out my profile!</p>
-  <p align="center"> 🔭 I’m currently working on building projects and finishing my portfolio website.</p>
-  <p align="center"> 🌱 I’m currently learning at General Assembly's Software Engineering Immersive. </p>
+  <p align="center"> 🔭 Working on building projects and finishing my portfolio website.</p>
+  <p align="center"> 🌱 Learning at General Assembly's Software Engineering Immersive. </p>
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300" width="600"/> 
 </div>
