@@ -5,9 +5,8 @@ Software Engineer | Web Developer
 ---------------------------------
 
 * 🌍  I'm based in Los Angeles
-* 🖥️  See my portfolio at [yaseraly.com](http://yaseraly.com)
 * ✉️  You can contact me at [yaser-aly@live.com](mailto:yaser-aly@live.com)
-* 🧠  I'm learning Python & Django
+
 
 ### Skills
 
